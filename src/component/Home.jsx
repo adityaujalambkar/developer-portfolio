@@ -55,7 +55,7 @@ return (<section className="min-h-screen text-white overflow-hidden" >
           <div className="absolute inset-0 bg-yellow-600 blur-[120px] opacity-30 rounded-full" />
 
           <img
-            src="/public/Aditya_Developer.png"
+            src="/public/aditya_developer.png"
             alt="Developer"
             className="relative w-[700px] md:w-[700px] object-cover"
           />
