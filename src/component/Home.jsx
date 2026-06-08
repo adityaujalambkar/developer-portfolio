@@ -1,5 +1,6 @@
 import Navbar from "./Navbar";
 import { FaGithub, FaLinkedin, FaEnvelope } from "react-icons/fa";
+import profileImg from  "../../public/aditya_developer.png";
 
 
 import {
@@ -55,7 +56,7 @@ return (<section className="min-h-screen text-white overflow-hidden" >
           <div className="absolute inset-0 bg-yellow-600 blur-[120px] opacity-30 rounded-full" />
 
           <img
-            src="../../src/assets/aditya_developer.png"
+            src={profileImg}
             alt="Developer"
             className="relative w-[700px] md:w-[700px] object-cover"
           />
